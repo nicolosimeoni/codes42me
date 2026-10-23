@@ -1,4 +1,4 @@
-# Hi, I'm Nicolò 👋
+# Hi, I'm Nicolò 
 
 My programming journey started at **42 Roma Elis**, where I spent one year building a solid foundation in computer science through hands-on, project-based learning.
 
